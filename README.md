@@ -12,7 +12,7 @@
 #### Databases:
 PostgreSQL, MySQL
 #### Data Science:
-Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy, в перспективе R, в настоящий момент подтягиваю статистику.
+Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy, база в R.
 <!--
 **analystbeast/analystbeast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
