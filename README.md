@@ -10,9 +10,13 @@
 
 
 #### Databases:
-PostgreSQL, MySQL
+PostgreSQL, MySQL, ClickHouse, Redash
+#### Автоматизация:
+Airflow
+#### Визуализация:
+Superset, Tableau
 #### Data Science:
-Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy, база в R.
+Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy, Orbit, CasualImpact, база в R.
 <!--
 **analystbeast/analystbeast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
